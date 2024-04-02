@@ -1,4 +1,5 @@
 - [[lectures_on_arithmetic_riemann_roch_04_01_2024]]
+- [[lectures_on_arithmetic_riemann_roch_04_02_2024]]
 **Time(s)**​: 3:00 pm - 4:30 pm, M-R (4/1, 4/2, 4/3, 4/4) 
 
 **Location**​: 348 **BIRGE**​ HALL
